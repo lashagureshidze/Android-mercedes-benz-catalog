@@ -1,0 +1,21 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">1dp</dimen>
+    <dimen name="activity_vertical_margin">1dp</dimen>
+
+    <dimen name="list_item_tag_size">9sp</dimen>
+    <dimen name="list_item_text_size">9sp</dimen>
+    <dimen name="list_item_model_size">13sp</dimen>
+    <dimen name="list_view_spacing">2sp</dimen>
+
+    <dimen name="list_item_image_width">90dp</dimen>
+    <dimen name="list_item_image_height">54dp</dimen>
+
+    <dimen name="review_image_width">100dp</dimen>
+    <dimen name="review_image_height">61dp</dimen>
+
+    <dimen name="review_fragment_padding">15dp</dimen>
+    <dimen name="review_image_padding_top">20dp</dimen>
+    <dimen name="review_image_padding_bottom">10dp</dimen>
+    <dimen name="review_specification_margin">10dp</dimen>
+</resources>
